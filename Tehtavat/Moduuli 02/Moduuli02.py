@@ -16,7 +16,7 @@ luku2 = int(input("Anna toinen luku: "))
 luku3 = int(input("Anna kolmas luku: "))
 print("summa: " + str(luku1 + luku2 + luku3))
 print("tulo: " + str(luku1*luku2*luku3))
-print("osamäärä: " + str(luku1/luku2/luku3))
+print("keskiarvo: " + str((luku1+luku2+luku3)/3))
 
 luotigrammoina = 13.3
 naulaluoteina = 32
