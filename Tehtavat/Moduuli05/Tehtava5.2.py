@@ -1,4 +1,4 @@
-import random
+
 
 syote = (input("Anna luku: "))
 luvut = list()
