@@ -12,6 +12,8 @@ def kertolasku(a, b):
     return a * b
 
 def jakolasku(a, b):
+    if b == 0:
+        return "Nollalla ei voi jakaa!!!"
     return a / b
 
 #Looppi
